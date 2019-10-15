@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar target/*.jar --p 8888
+web: java $JAVA_OPTS -jar target/*.jar --p 8080
