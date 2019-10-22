@@ -1,0 +1,17 @@
+{
+  "category": {
+    "id": 1,
+    "name": null
+  },
+  "fullDesc": "Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję Bardzo se jest wygodne łóżko i wgl tu powinien być długi opis ale nie chce mi się wymyślać więc to kopiuję",
+  "id": null,
+  "images": [
+    "https://carp-page-application.herokuapp.com/assets/img/slide2.jpg",
+    "https://carp-page-application.herokuapp.com/assets/img/slide2.jpg",
+    "https://carp-page-application.herokuapp.com/assets/img/slide2.jpg"
+  ],
+  "name": "Nazwa Łóżka",
+  "price": 500,
+  "shortDesc": "Krótki opis Krótki opis Krótki opis Krótki opis Krótki opis",
+  "smallImage": "https://carp-page-application.herokuapp.com/assets/img/bed.jpeg"
+}
